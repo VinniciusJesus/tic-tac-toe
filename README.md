@@ -10,8 +10,6 @@ Este é um jogo da velha simples e elegante, desenvolvido para web, que coloca o
 Design Minimalista ✨: O jogo apresenta um design limpo e minimalista que é agradável aos olhos e fácil de usar.
 Jogabilidade Simples 🎮: Jogue contra um amigo no mesmo dispositivo, alternando entre X e O, e veja quem ganha primeiro.
 Indicador de Vencedor 🏆: Quando um jogador ganha, o jogo destaca automaticamente os três quadrados vencedores.
-Reinício Fácil 🔄: Você pode reiniciar o jogo a qualquer momento com um único clique.
-Responsivo 📱: O layout se adapta a diferentes tamanhos de tela, tornando-o jogável em dispositivos móveis e desktop.
 
 ## Como Jogar 🕹️
 
